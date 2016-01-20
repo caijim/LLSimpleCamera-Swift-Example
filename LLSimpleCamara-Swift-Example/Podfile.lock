@@ -1,0 +1,10 @@
+PODS:
+  - LLSimpleCamera (4.1.0)
+
+DEPENDENCIES:
+  - LLSimpleCamera (~> 4.1)
+
+SPEC CHECKSUMS:
+  LLSimpleCamera: c2600d1621555473530ca2a70d4399d287086337
+
+COCOAPODS: 0.39.0
