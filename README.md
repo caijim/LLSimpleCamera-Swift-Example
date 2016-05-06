@@ -1,8 +1,8 @@
 # LLSimpleCamera-Swift-Example
 
-Firstly, Thanks to github.com/omergul123 for amazing lib.
+Firstly, Thanks to github.com/omergul123 for amazing library.
 
-- You can take a images and recording videos with lib.
+- You can take a images and recording videos with library.
 - Creative design (like snapchat)
 
 # Photos from Example application;
